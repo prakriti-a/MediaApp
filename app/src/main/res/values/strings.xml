@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Media App</string>
+    <string name="PlayVid">PLAY VIDEO</string>
+    <string name="pause_music">PAUSE MUSIC</string>
+    <string name="play_music">PLAY MUSIC</string>
+    <string name="volume">Adjust Volume</string>
+    <string name="music_controls">Audio Controls</string>
+</resources>
